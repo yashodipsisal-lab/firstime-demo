@@ -1,2 +1,2 @@
 # firstime-demo
-these is my first Git Repositorty.
+This is my first Git Repositorty.
